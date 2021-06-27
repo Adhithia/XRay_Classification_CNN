@@ -20,3 +20,5 @@ Our data is in the form of grayscale (black and white) images of chest x-rays. Y
   * Overfitting on a smaller version of the training set
   * Hyperparameter tuning
   * Mode training and evaluation
+## 4. Running the notebook
+The notebook can be downloaded along with the dataset and change the path according to yours and run it. You can change the parameters to try other models.
