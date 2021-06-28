@@ -4,7 +4,7 @@ In this project, we use a Chest X-Ray dataset and we identify images where an "e
 Our data is in the form of grayscale (black and white) images of chest x-rays. You can download the dataset from here: https://www.kaggle.com/shaitender/cxr-dataset
 ## 3. Process
 1. Data Preparation: 
-  * Made sure all our images are of the same resolution
+  * Make sure all our images are of the same resolution
   * Place the images in two different folders - 'effusion' and 'nofinding'. This method will work for any application where you're trying to train using images.
 2. Data Pre-Processing: Morphological Operations
   * Perform thresholding on the image - converted it from a grey image to a binary image.
